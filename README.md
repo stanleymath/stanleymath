@@ -47,7 +47,6 @@ Seja bem-vindo ao meu espaço — aqui compartilho um pouco da minha jornada com
 
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -59,11 +58,9 @@ Seja bem-vindo ao meu espaço — aqui compartilho um pouco da minha jornada com
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="200"
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleymath&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
-
-
-
