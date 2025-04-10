@@ -50,7 +50,7 @@ Seja bem-vindo ao meu espaço — aqui compartilho um pouco da minha jornada com
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=stanleymath&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
@@ -58,9 +58,8 @@ Seja bem-vindo ao meu espaço — aqui compartilho um pouco da minha jornada com
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="150"
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleymath&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
