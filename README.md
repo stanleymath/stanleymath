@@ -5,6 +5,10 @@
 Olá! Meu nome é Stanley Matheus e sou estudante de Tecnologia em Sistemas para Internet (TSI) no IF Goiano. Sou movido por inovação e curiosidade no mundo da tecnologia. Sempre buscando aprender mais e transformar ideias em soluções criativas e funcionais. Atualmente, estou explorando o universo do desenvolvimento web e automação além de aprimorar minhas habilidades em programação no geral, design e experiência do usuário.
 Seja bem-vindo ao meu espaço — aqui compartilho um pouco da minha jornada como dev em construção..
 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanley-matheus-617a6914a/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/stanleymath)
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
