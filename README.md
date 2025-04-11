@@ -64,6 +64,6 @@ Seja bem-vindo ao meu espaço — aqui compartilho um pouco da minha jornada com
       alt="GitHub Stats" 
       height="150"
       style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleymath&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9&?cache_seconds=60" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleymath&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9&?cache_seconds=30" 
   />
 
